@@ -1,2 +1,2 @@
 # SalavatShomar_Telbot
-Telegram bot wich counts nuber of "Salavat" in your group
+Telegram bot wich counts number of "Salavat" in your group
